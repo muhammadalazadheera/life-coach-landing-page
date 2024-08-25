@@ -178,7 +178,7 @@ i,
     border-top: 1px solid rgba(255, 255, 255, 0.15);
 }  
 .hero-area {
-    background: linear-gradient(to right, #0b0930, #0b0930dc),url(/assets/images/heroarea3.jpg);
+    background: linear-gradient(to right, #0b0930, #0b0930dc),url(../images/heroarea3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
