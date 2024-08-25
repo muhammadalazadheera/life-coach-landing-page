@@ -377,6 +377,9 @@
 
 
 @media only screen and (max-width: 575px) {
+    .hero-area{
+        height: auto;
+    }
     .hero-area .left-content .content .title {
         font-size: 40px;
         line-height: 50px;
