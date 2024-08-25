@@ -1,6 +1,6 @@
 body {
     color: #dbe2fb;
-    background: #001232;
+    background: #0B0930;
 }
 
 
@@ -178,14 +178,7 @@ i,
     border-top: 1px solid rgba(255, 255, 255, 0.15);
 }  
 .hero-area {
-    background: url(../images/heroarea2.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.footer {
-    background: url(../images/footer2.png);
-    background-repeat: no-repeat;
+    background: linear-gradient(to right, #0b0930, #0b0930dc),url(/assets/images/heroarea3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }

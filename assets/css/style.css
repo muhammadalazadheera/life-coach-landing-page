@@ -23,25 +23,11 @@
 --------------------------
 ** About Area Start
 --------------------------
-** We are best Area Start
---------------------------
-** Feature Area Start
---------------------------
 ** Video Area Start
---------------------------
-** Deal Of the Week Start
---------------------------
-** Pricing Area Start
 --------------------------
 ** Testimonial Area Start
 --------------------------
-** FAQ Area Start
---------------------------
 ** Contact Area Start
---------------------------
-** Footer Area Start
---------------------------
-** Index-2 Area Start
 --------------------------
 
 
@@ -994,7 +980,6 @@ select:focus {
 .hero-area {
   position: relative;
   padding: 115px 0px 291px;
-  background: url(../images/heroarea.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1011,12 +996,14 @@ select:focus {
   color: #fff;
   font-weight: 700;
   padding-top: 25px;
+  text-transform: capitalize;
 }
 .hero-area .left-content .content .subtitle {
   font-size: 18px;
   line-height: 28px;
-  color: #ffff;
+  color: #EA384D;
   margin-top: 26px;
+  text-transform: capitalize;
 }
 .hero-area .left-content .content .links {
   margin-top: 42px;
